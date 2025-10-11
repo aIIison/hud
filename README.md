@@ -19,3 +19,6 @@
 currently there's one custom font included
 - should be font index `223`
 - in case it's not, use `sar_font_list` and find `Typoster`
+
+## credits
+- [cleanui](https://github.com/MrSlimeDiamond/p2-cleanui/) - inspiration and borrowed some code
