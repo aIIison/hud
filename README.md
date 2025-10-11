@@ -7,7 +7,7 @@
 # extra features
 | minimal net_graph       | original contimes & cm timer                                            | font(s) for sar hud     |
 | ----------------------- | ----------------------------------------------------------------------- | ----------------------- |
-| <img src="./doc/5.png"> | <img src="./doc/7.png" width="140"> <img src="./doc/6.png" width="140"> | <img src="./doc/8.png"> |
+| <img src="./doc/5.png" width="220"> | <img src="./doc/7.png" width="180"> <img src="./doc/6.png" width="180"> | <img src="./doc/8.png"> |
 
 # installation
 1. download the latest [release](https://github.com/aIIison/hud/releases/)
