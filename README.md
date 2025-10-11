@@ -1,32 +1,13 @@
 ![](./doc/logo.png)
 
 # screenshots
-<img src="./doc/1.png" width="480">
-<img src="./doc/2.png" width="480">
-<img src="./doc/3.png" width="480">
-<img src="./doc/4.png" width="480">
+<img src="./doc/1.png" width="480"> <img src="./doc/2.png" width="480">
+<img src="./doc/3.png" width="480"> <img src="./doc/4.png" width="480">
 
 # extra features
-<table>
-<th>
-<figure>
-  <img src="./doc/5.png">
-  <figcaption>minimal net_graph</figcaption>
-</figure>
-</th>
-<th>
-<figure>
-  <img src="./doc/6.png">
-  <figcaption>original contimes</figcaption>
-</figure>
-</th>
-<th>
-<figure>
-  <img src="./doc/7.png">
-  <figcaption>original cm timer</figcaption>
-</figure>
-</th>
-</table>
+| minimal net_graph       | original contimes & cm timer                                            | font(s) for sar hud     |
+| ----------------------- | ----------------------------------------------------------------------- | ----------------------- |
+| <img src="./doc/5.png"> | <img src="./doc/7.png" width="200"> <img src="./doc/6.png" width="200"> | <img src="./doc/8.png"> |
 
 # installation
 1. download the latest [release](https://github.com/aIIison/hud/releases/)
