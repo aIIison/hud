@@ -11,9 +11,7 @@
 
 ## installation
 1. download the latest [release](https://github.com/aIIison/hud/releases/)
-2. rename `update` directory to `portal2_dlc3`
-3. create folder `portal2_dlc4` (move all your existing vpks here)
-4. extract the files in `portal2_dlc4`
+2. extract the files in `Portal 2`
 
 ## using the custom font(s)
 currently there's one custom font included
